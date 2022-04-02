@@ -322,11 +322,11 @@ footer ul li:first-child {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   margin-bottom: 64px;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .gallery li {
-  margin-bottom: 30px;
+  margin:0 15px 30px 15px;
   border: 1px solid #EEEEEE;
 }
 
